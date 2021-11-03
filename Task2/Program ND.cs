@@ -26,6 +26,7 @@ namespace Task2
 
             var number1 = int.Parse(Console.ReadLine());
 
+
           
         }
     }
